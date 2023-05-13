@@ -1,0 +1,19 @@
+.insert-btn {
+  background-color: #da291c;
+  position: fixed;
+  bottom: 2rem;
+  right: 3rem;
+  border-radius: 2rem;
+  color: #fff;
+  padding: 1.5rem;
+}
+
+.insert-btn:hover {
+  background-color: #8f0a00;
+  cursor: pointer;
+  position: fixed;
+  bottom: 2rem;
+  right: 3rem;
+  border-radius: 2rem;
+  color: #fff;
+}

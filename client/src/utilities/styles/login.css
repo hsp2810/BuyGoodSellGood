@@ -1,0 +1,11 @@
+/* .loginContainer::before{
+    content: '';
+    top: 3rem;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    background: url('../images/SAIT-BACKGROUND.png') no-repeat center center/cover;
+    opacity: 0.7;
+} */

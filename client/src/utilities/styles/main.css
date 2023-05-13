@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.primary-btn {
+    width: 100%;
+    color: white;
+    background-color: #7b2431;
+    border: 1px solid #7b2431;
+    border-radius: 0.3rem;
+    padding: .4rem;
+    margin: auto;
+    text-align: center;
+    font-weight: 500;
+}
+
+.primary-btn:hover {
+    background-color: #a6192e;
+}
+

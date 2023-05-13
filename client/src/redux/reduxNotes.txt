@@ -1,0 +1,7 @@
+Implementing redux and redux toolkit in the application
+
+1. Install @redux toolkit and react-redux
+2. Surround the App component with Provider and pass the store to the Provider
+3. Action: It basically triggers the reducers to change the state of the component
+4. Reducer: It is a function responsible to change the state of the component
+5. Store: Store is a place where we can store the states and the reducers

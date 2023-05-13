@@ -1,0 +1,14 @@
+.main-container {
+  display: inline;
+  padding: 2rem;
+  background-color: #e9eeee;
+}
+
+.img-container {
+  float: left;
+  width: 30%;
+  margin-right: 1.5rem;
+}
+
+.info-container {
+}

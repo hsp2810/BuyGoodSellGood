@@ -1,0 +1,24 @@
+.nav-links {
+  font-size: 1.1rem;
+  color: #7b2431;
+  font-weight: 500;
+}
+
+.nav-links:hover {
+  color: #a6192e;
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  color: #a6192e;
+}
+
+.profile-link {
+  background-color: #da291c;
+  position: fixed;
+  bottom: 2rem;
+  right: 3rem;
+  border-radius: 2rem;
+  color: #fff;
+  padding: 1.5rem;
+}
