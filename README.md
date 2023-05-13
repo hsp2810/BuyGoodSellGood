@@ -1,6 +1,6 @@
 # BuyGoodSellGood
 
-BuyGoodSellGood is a web application which I have designed for SAIT staff to buy and sell items from one another in a secure and convenient way. This application offers a user-friendly interface that allows users to post advertisements for items they want to sell and view advertisements for items they want to buy. The SAIT BuyAndSell application promotes sustainable practices by encouraging the reuse and recycling of items, and fosters a sense of community among SAIT staff.
+BuyGoodSellGood is a web application which I have designed for Southern Alberta Institute of Technology staff to buy and sell items from one another in a secure and convenient way. This application offers a user-friendly interface that allows users to post advertisements for items they want to sell and view advertisements for items they want to buy. The SAIT BuyAndSell application promotes sustainable practices by encouraging the reuse and recycling of items, and fosters a sense of community among SAIT staff.
 
 Features
 Allows SAIT staff to buy and sell items from one another
